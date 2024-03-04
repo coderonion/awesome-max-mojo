@@ -14,15 +14,18 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
   - [Performance Benchmark](#performance-benchmark)
   - [Package and Version Manager](#package-and-version-manager)
   - [Data Structure and Algorithm](#data-structure-and-algorithm)
+  - [FFI Bindings](#ffi-bindings)
+  - [GPU Programming](#gpu-programming)
   - [Scientific Computation](#scientific-computation)
     - [Numerical Calculation](#numerical-calculation)
     - [Linear Algebra](#linear-algebra)
   - [Machine Learning](#machine-learning)
     - [Machine Learning Framework](#machine-learning-framework)
     - [Large Language Model](#large-language-model)
-  - [FFI Bindings](#ffi-bindings)
   - [Date and Time](#date-and-time)
   - [Test Framework](#test-framework)
+  - [File Processing](#file-processing)
+  - [Hash Function](#hash-function)
   - [HTTP Framework](#http-framework)
   - [Web Framework](#web-framework)
   - [Blogs](#blogs)
@@ -42,6 +45,8 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [MAX](https://www.modular.com/max) : MAX is an integrated, composable suite of products that simplifies your AI infrastructure so you can develop, deploy, and innovate faster.
 
     - [MLIR](https://mlir.llvm.org/) : Multi-Level Intermediate Representation.
+
+    - [llvm/llvm-project](https://github.com/llvm/llvm-project) <img src="https://img.shields.io/github/stars/llvm/llvm-project?style=social"/> : The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. [llvm.org](http://llvm.org/)
 
     - [ByteIR](https://github.com/bytedance/byteir) <img src="https://img.shields.io/github/stars/bytedance/byteir?style=social"/> : The ByteIR Project is a ByteDance model compilation solution. ByteIR includes compiler, runtime, and frontends, and provides an end-to-end model compilation solution. [byteir.ai](https://byteir.ai/)
 
@@ -108,6 +113,29 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
   - [mzaks/compact-dict](https://github.com/mzaks/compact-dict) <img src="https://img.shields.io/github/stars/mzaks/compact-dict?style=social"/> : A fast and compact Dict implementation in Mojo 🔥
 
+  - [mzaks/mojo-flx](https://github.com/mzaks/mojo-flx) <img src="https://img.shields.io/github/stars/mzaks/mojo-flx?style=social"/> : FlexBuffers implementation in Mojo.
+
+  - [mzaks/mojo-trees](https://github.com/mzaks/mojo-trees) <img src="https://img.shields.io/github/stars/mzaks/mojo-trees?style=social"/> : Experimental Tree data structures in Mojo.
+
+  - [mzaks/mojo-sort](https://github.com/mzaks/mojo-sort) <img src="https://img.shields.io/github/stars/mzaks/mojo-sort?style=social"/> : Implementation of different sorting algorithms in Mojo.
+
+
+
+
+## FFI Bindings
+
+  - [ihnorton/mojo-ffi](https://github.com/ihnorton/mojo-ffi) <img src="https://img.shields.io/github/stars/ihnorton/mojo-ffi?style=social"/> :Mojo FFI Notes.
+
+
+
+## GPU Programming
+
+  - [AyakaGEMM/Hands-on-MLIR](https://github.com/AyakaGEMM/Hands-on-MLIR) <img src="https://img.shields.io/github/stars/AyakaGEMM/Hands-on-MLIR?style=social"/> : Hands-on-MLIR.
+
+
+  - [yao-jiashu/KernelCodeGen](https://github.com/yao-jiashu/KernelCodeGen) <img src="https://img.shields.io/github/stars/yao-jiashu/KernelCodeGen?style=social"/> : GEMM/Conv2d CUDA/HIP kernel code generation using MLIR.
+
+
 
 
 
@@ -168,9 +196,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [llama2.mojo ](https://github.com/tairov/llama2.mojo) <img src="https://img.shields.io/github/stars/tairov/llama2.mojo?style=social"/> : Inference Llama 2 in one file of pure 🔥
 
 
-## FFI Bindings
 
-  - [ihnorton/mojo-ffi](https://github.com/ihnorton/mojo-ffi) <img src="https://img.shields.io/github/stars/ihnorton/mojo-ffi?style=social"/> :Mojo FFI Notes.
 
 
 ## Date and Time
@@ -186,9 +212,30 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
   - [guidorice/mojo-pytest](https://github.com/guidorice/mojo-pytest) <img src="https://img.shields.io/github/stars/guidorice/mojo-pytest?style=social"/> : Mojo test runner, pytest plugin (aka pytest-mojo).
 
 
+
+## File Processing
+
+  - [mzaks/mojo-csv](https://github.com/mzaks/mojo-csv) <img src="https://img.shields.io/github/stars/mzaks/mojo-csv?style=social"/> : This library provides facilities to read and write data in CSV format according to [RFC-4180](https://www.rfc-editor.org/rfc/rfc4180)
+
+
+
+
+
+## Hash Function
+
+  - [mzaks/mojo-hash](https://github.com/mzaks/mojo-hash) <img src="https://img.shields.io/github/stars/saviorand/lightbug_http?style=social"/> : A collection of hash functions implemented in Mojo.
+
+
+
+
 ## HTTP Framework
 
   - [saviorand/lightbug_http](https://github.com/saviorand/lightbug_http) <img src="https://img.shields.io/github/stars/saviorand/lightbug_http?style=social"/> : Simple and fast HTTP framework for Mojo! 🔥
+
+
+  - [thatstoasty/mojo-http-client](https://github.com/thatstoasty/mojo-http-client) <img src="https://img.shields.io/github/stars/thatstoasty/mojo-http-client?style=social"/> : Simple socket wrapper and http client for Mojo.
+
+
 
 
 ## Web Framework
