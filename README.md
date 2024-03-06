@@ -22,6 +22,8 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
   - [Machine Learning](#machine-learning)
     - [Machine Learning Framework](#machine-learning-framework)
     - [Large Language Model](#large-language-model)
+    - [AI Generated Content](#ai-generated-content)
+    - [Image Recognition](#image-recognition)
   - [Date and Time](#date-and-time)
   - [Test Framework](#test-framework)
   - [File Processing](#file-processing)
@@ -193,7 +195,27 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
   - ### Large Language Model
 
 
-    - [llama2.mojo ](https://github.com/tairov/llama2.mojo) <img src="https://img.shields.io/github/stars/tairov/llama2.mojo?style=social"/> : Inference Llama 2 in one file of pure 🔥
+    - [llama2.mojo](https://github.com/tairov/llama2.mojo) <img src="https://img.shields.io/github/stars/tairov/llama2.mojo?style=social"/> : Inference Llama 2 in one file of pure 🔥
+
+
+
+  - ### AI Generated Content
+
+
+    - [lrmantovani10/Stable-Diffusion.mojo](https://github.com/lrmantovani10/Stable-Diffusion.mojo) <img src="https://img.shields.io/github/stars/lrmantovani10/Stable-Diffusion.mojo?style=social"/> : A Mojo implementation of a smaller, Stable Diffusion-like model.
+
+
+
+  - ### Image Recognition
+
+
+    - [TENBrnak/MNIST_in_mojo](https://github.com/TENBrnak/MNIST_in_mojo) <img src="https://img.shields.io/github/stars/TENBrnak/MNIST_in_mojo?style=social"/> : This repository will contain my work as I attempt to develop a neural network in pure Mojo🔥 to solve the MNIST and Fashion MNIST image recognition dataset. 
+
+
+
+
+
+
 
 
 
