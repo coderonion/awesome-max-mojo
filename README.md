@@ -24,6 +24,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [Large Language Model](#large-language-model)
     - [AI Generated Content](#ai-generated-content)
     - [Image Recognition](#image-recognition)
+    - [Object Detection](#object-detection)
   - [Date and Time](#date-and-time)
   - [Test Framework](#test-framework)
   - [File Processing](#file-processing)
@@ -209,9 +210,13 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
   - ### Image Recognition
 
 
-    - [TENBrnak/MNIST_in_mojo](https://github.com/TENBrnak/MNIST_in_mojo) <img src="https://img.shields.io/github/stars/TENBrnak/MNIST_in_mojo?style=social"/> : This repository will contain my work as I attempt to develop a neural network in pure Mojo🔥 to solve the MNIST and Fashion MNIST image recognition dataset. 
+    - [TENBrnak/MNIST_in_mojo](https://github.com/TENBrnak/MNIST_in_mojo) <img src="https://img.shields.io/github/stars/TENBrnak/MNIST_in_mojo?style=social"/> : This repository will contain my work as I attempt to develop a neural network in pure Mojo🔥 to solve the MNIST and Fashion MNIST image recognition dataset.
 
 
+  - ### Object Detection
+
+
+    - [taalhaataahir0102/Mojo-Yolo](https://github.com/taalhaataahir0102/Mojo-Yolo) <img src="https://img.shields.io/github/stars/taalhaataahir0102/Mojo-Yolo?style=social"/> : Mojo-Yolo.
 
 
 
@@ -281,3 +286,4 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [2024-02-02，Community Spotlight: Outperforming Rust ⚙️ DNA sequence parsing benchmarks by 50% with Mojo 🔥](https://www.modular.com/blog/outperforming-rust-benchmarks-with-mojo)
     - [2024-02-12，Mojo vs. Rust: is Mojo 🔥 faster than Rust 🦀 ?](https://www.modular.com/blog/mojo-vs-rust-is-mojo-faster-than-rust)
     - [2024-02-29，MAX is here! What does that mean for Mojo🔥?](https://www.modular.com/blog/max-is-here-what-does-that-mean-for-mojo)
+    - [2024-03-28，The Next Big Step in Mojo🔥 Open Source](https://www.modular.com/blog/the-next-big-step-in-mojo-open-source)
