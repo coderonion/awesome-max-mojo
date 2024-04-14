@@ -31,6 +31,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
   - [Hash Function](#hash-function)
   - [HTTP Framework](#http-framework)
   - [Web Framework](#web-framework)
+  - [GUI](#gui)
   - [Blogs](#blogs)
 
 
@@ -173,17 +174,15 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
     - [TPU-MLIR](https://github.com/sophgo/tpu-mlir) <img src="https://img.shields.io/github/stars/sophgo/tpu-mlir?style=social"/> : Machine learning compiler based on MLIR for Sophgo TPU.
 
-    - [Voodoo](https://github.com/Benny-Nottonson/voodoo) <img src="https://img.shields.io/github/stars/Benny-Nottonson/voodoo?style=social"/> : A working machine learning framework in pure Mojo 🔥
+    - [Basalt](https://github.com/basalt-org/basalt) <img src="https://img.shields.io/github/stars/basalt-org/basalt?style=social"/> : A Machine Learning framework from scratch in Pure Mojo 🔥. Basalt is a stand-alone machine learning framework that leverages the power of Mojo.
 
-    - [Dainemo](https://github.com/StijnWoestenborghs/dainemo) <img src="https://img.shields.io/github/stars/StijnWoestenborghs/dainemo?style=social"/> : A Machine Learning framework from scratch in Mojo 🔥
+    - [MojoNet](https://github.com/guna-sd/MojoNet) <img src="https://img.shields.io/github/stars/guna-sd/MojoNet?style=social"/> : MojoNet is a ML/DL framework written in mojo🔥
 
     - [StijnWoestenborghs/gradi-mojo](https://github.com/StijnWoestenborghs/gradi-mojo) <img src="https://img.shields.io/github/stars/StijnWoestenborghs/gradi-mojo?style=social"/> : Gradient Descent in Mojo 🔥
 
     - [tjkessler/mojoml](https://github.com/tjkessler/mojoml) <img src="https://img.shields.io/github/stars/tjkessler/mojoml?style=social"/> : Linear algebra and machine learning in Mojo 🔥
 
     - [PumeTu/hanabi](https://github.com/PumeTu/hanabi) <img src="https://img.shields.io/github/stars/PumeTu/hanabi?style=social"/> : Minimal Deep Learning framework in Mojo🔥
-
-    - [guna-sd/MojoNet](https://github.com/guna-sd/MojoNet) <img src="https://img.shields.io/github/stars/guna-sd/MojoNet?style=social"/> : MojoNet is a ML/DL framework written in mojo🔥
 
     - [henrithomas/mojo-neural-net](https://github.com/henrithomas/mojo-neural-net) <img src="https://img.shields.io/github/stars/henrithomas/mojo-neural-net?style=social"/> : simple neural network implementation in mojo.
 
@@ -197,6 +196,10 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
 
     - [llama2.mojo](https://github.com/tairov/llama2.mojo) <img src="https://img.shields.io/github/stars/tairov/llama2.mojo?style=social"/> : Inference Llama 2 in one file of pure 🔥
+
+    - [dorjeduck/llm.mojo](https://github.com/dorjeduck/llm.mojo) <img src="https://img.shields.io/github/stars/dorjeduck/llm.mojo?style=social"/> : port of Andrjey Karpathy's llm.c to Mojo.
+
+
 
 
 
@@ -273,6 +276,11 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
   - [tkruer/campfire](https://github.com/tkruer/campfire) <img src="https://img.shields.io/github/stars/tkruer/campfire?style=social"/> : A web framework for the Mojo programming language.
 
 
+## GUI
+
+  - [rd4com/mojo-ui-html](https://github.com/rd4com/mojo-ui-html) <img src="https://img.shields.io/github/stars/rd4com/mojo-ui-html?style=social"/> : mmediate mode GUI, HTML, CSS, Work in progress, Mojo language.
+
+
 
 
 
@@ -288,3 +296,4 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [2024-02-29，MAX is here! What does that mean for Mojo🔥?](https://www.modular.com/blog/max-is-here-what-does-that-mean-for-mojo)
     - [2024-03-28，The Next Big Step in Mojo🔥 Open Source](https://www.modular.com/blog/the-next-big-step-in-mojo-open-source)
     - [2024-04-02，What’s new in Mojo 24.2: Mojo Nightly, Enhanced Python Interop, OSS stdlib and more](https://www.modular.com/blog/whats-new-in-mojo-24-2-mojo-nightly-enhanced-python-interop-oss-stdlib-and-more)
+    - [2024-04-10，Row-major vs. column-major matrices: a performance analysis in Mojo and NumPy](https://www.modular.com/blog/row-major-vs-column-major-matrices-a-performance-analysis-in-mojo-and-numpy)
