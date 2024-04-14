@@ -287,3 +287,4 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [2024-02-12，Mojo vs. Rust: is Mojo 🔥 faster than Rust 🦀 ?](https://www.modular.com/blog/mojo-vs-rust-is-mojo-faster-than-rust)
     - [2024-02-29，MAX is here! What does that mean for Mojo🔥?](https://www.modular.com/blog/max-is-here-what-does-that-mean-for-mojo)
     - [2024-03-28，The Next Big Step in Mojo🔥 Open Source](https://www.modular.com/blog/the-next-big-step-in-mojo-open-source)
+    - [2024-04-02，What’s new in Mojo 24.2: Mojo Nightly, Enhanced Python Interop, OSS stdlib and more](https://www.modular.com/blog/whats-new-in-mojo-24-2-mojo-nightly-enhanced-python-interop-oss-stdlib-and-more)
