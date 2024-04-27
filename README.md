@@ -98,8 +98,11 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
   - [manatlan/sudoku_resolver](https://github.com/manatlan/sudoku_resolver) <img src="https://img.shields.io/github/stars/manatlan/sudoku_resolver?style=social"/> : just to compare perf between mojo, nim, java, nodejs, rust and python3 of a same algo.
 
 
-  - [jiel/laplacian_filters_benchmark](https://github.com/jiel/laplacian_filters_benchmark) <img src="https://img.shields.io/github/stars/jiel/laplacian_filters_benchmark?style=social"/> : benchmark of python and mojo implementations of the Laplacian filter (edge detection)
+  - [jiel/laplacian_filters_benchmark](https://github.com/jiel/laplacian_filters_benchmark) <img src="https://img.shields.io/github/stars/jiel/laplacian_filters_benchmark?style=social"/> : benchmark of python and mojo implementations of the Laplacian filter (edge detection).
 
+  - [jiel/laplacian_filters_benchmark](https://github.com/jiel/laplacian_filters_benchmark) <img src="https://img.shields.io/github/stars/jiel/laplacian_filters_benchmark?style=social"/> : benchmark of python and mojo implementations of the Laplacian filter (edge detection).
+
+  - [dev0x13/gemm-benchmark-2023](https://github.com/dev0x13/gemm-benchmark-2023) <img src="https://img.shields.io/github/stars/dev0x13/gemm-benchmark-2023?style=social"/> : Benchmarks for modern (2023) high-performance floating-point GEMM implementations.
 
 
 
@@ -291,6 +294,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [2023-05-02，A unified, extensible platform to superpower your AI](https://www.modular.com/blog/a-unified-extensible-platform-to-superpower-your-ai)
     - [2023-06-08，Do LLMs eliminate the need for programming languages?](https://www.modular.com/blog/do-llms-eliminate-the-need-for-programming-languages)
     - [2023-08-24，We’ve raised $100M to fix AI infrastructure for the world's developers](https://www.modular.com/blog/weve-raised-100m-to-fix-ai-infrastructure-for-the-worlds-developers)
+    - [2023-10-13，Community Spotlight: How I built llama2.🔥 by Aydyn Tairov](https://www.modular.com/blog/community-spotlight-how-i-built-llama2-by-aydyn-tairov)
     - [2024-02-02，Community Spotlight: Outperforming Rust ⚙️ DNA sequence parsing benchmarks by 50% with Mojo 🔥](https://www.modular.com/blog/outperforming-rust-benchmarks-with-mojo)
     - [2024-02-12，Mojo vs. Rust: is Mojo 🔥 faster than Rust 🦀 ?](https://www.modular.com/blog/mojo-vs-rust-is-mojo-faster-than-rust)
     - [2024-02-29，MAX is here! What does that mean for Mojo🔥?](https://www.modular.com/blog/max-is-here-what-does-that-mean-for-mojo)
