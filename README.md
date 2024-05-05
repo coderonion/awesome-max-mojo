@@ -28,9 +28,11 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
   - [Date and Time](#date-and-time)
   - [Test Framework](#test-framework)
   - [File Processing](#file-processing)
+  - [Image Processing](#image-processing)
   - [Hash Function](#hash-function)
   - [HTTP Framework](#http-framework)
   - [Web Framework](#web-framework)
+  - [Quantitative Trading](#quantitative-trading)
   - [GUI](#gui)
   - [Blogs](#blogs)
 
@@ -79,7 +81,10 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
         - [Mojo Dojo](https://mojodojo.dev/) : Learning Resources for Mojo 🔥
 
+        - [rd4com/mojo-learning](https://github.com/rd4com/mojo-learning) <img src="https://img.shields.io/github/stars/rd4com/mojo-learning?style=social"/> : 📖 Learn some mojo !
+
         - [helehex/mojo-test](https://github.com/helehex/mojo-test) <img src="https://img.shields.io/github/stars/helehex/mojo-test?style=social"/> : mojo examples, tests, and ideas.
+
 
     - #### MLIR Learning
 
@@ -161,6 +166,8 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
   - ### Linear Algebra
 
+    - [NuMojo](https://github.com/MadAlex1997/NuMojo) <img src="https://img.shields.io/github/stars/MadAlex1997/NuMojo?style=social"/> : NuMojo is a library for numerical computing in Mojo similar to numpy in Python.
+
     - [tjkessler/mojoml](https://github.com/tjkessler/mojoml) <img src="https://img.shields.io/github/stars/tjkessler/mojoml?style=social"/> : Linear algebra and machine learning in Mojo 🔥
 
 
@@ -200,7 +207,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
     - [llama2.mojo](https://github.com/tairov/llama2.mojo) <img src="https://img.shields.io/github/stars/tairov/llama2.mojo?style=social"/> : Inference Llama 2 in one file of pure 🔥
 
-    - [dorjeduck/llm.mojo](https://github.com/dorjeduck/llm.mojo) <img src="https://img.shields.io/github/stars/dorjeduck/llm.mojo?style=social"/> : port of Andrjey Karpathy's llm.c to Mojo.
+    - [llm.mojo](https://github.com/dorjeduck/llm.mojo) <img src="https://img.shields.io/github/stars/dorjeduck/llm.mojo?style=social"/> : port of Andrjey Karpathy's llm.c to Mojo.
 
 
 
@@ -252,6 +259,11 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
 
 
+## Image Processing
+
+  - [fnands/mimage](https://github.com/fnands/mimage) <img src="https://img.shields.io/github/stars/fnands/mimage?style=social"/> : A library for parsing images in Mojo.
+
+
 
 
 ## Hash Function
@@ -279,6 +291,15 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
   - [tkruer/campfire](https://github.com/tkruer/campfire) <img src="https://img.shields.io/github/stars/tkruer/campfire?style=social"/> : A web framework for the Mojo programming language.
 
 
+
+
+## Quantitative Trading
+
+  - [f0cii/moxt](https://github.com/f0cii/moxt) <img src="https://img.shields.io/github/stars/f0cii/moxt?style=social"/> : A high-performance trading library, written in Mojo and C++, designed to simplify quantitative trading.
+
+
+
+
 ## GUI
 
   - [rd4com/mojo-ui-html](https://github.com/rd4com/mojo-ui-html) <img src="https://img.shields.io/github/stars/rd4com/mojo-ui-html?style=social"/> : mmediate mode GUI, HTML, CSS, Work in progress, Mojo language.
@@ -301,3 +322,4 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [2024-03-28，The Next Big Step in Mojo🔥 Open Source](https://www.modular.com/blog/the-next-big-step-in-mojo-open-source)
     - [2024-04-02，What’s new in Mojo 24.2: Mojo Nightly, Enhanced Python Interop, OSS stdlib and more](https://www.modular.com/blog/whats-new-in-mojo-24-2-mojo-nightly-enhanced-python-interop-oss-stdlib-and-more)
     - [2024-04-10，Row-major vs. column-major matrices: a performance analysis in Mojo and NumPy](https://www.modular.com/blog/row-major-vs-column-major-matrices-a-performance-analysis-in-mojo-and-numpy)
+    - [2024-05-02，What’s New in Mojo 24.3: Community Contributions, Pythonic Collections and Core Language Enhancements](https://www.modular.com/blog/whats-new-in-mojo-24-3-community-contributions-pythonic-collections-and-core-language-enhancements)
