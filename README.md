@@ -94,8 +94,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
         - [j2kun/mlir-tutorial](https://github.com/j2kun/mlir-tutorial) <img src="https://img.shields.io/github/stars/j2kun/mlir-tutorial?style=social"/> : This is the code repository for a series of articles on the [MLIR framework](https://mlir.llvm.org/) for building compilers.
 
-
-
+        - [KEKE046/mlir-tutorial](https://github.com/KEKE046/mlir-tutorial) <img src="https://img.shields.io/github/stars/KEKE046/mlir-tutorial?style=social"/> : Hands-On Practical MLIR Tutorial.
 
 
 ## Performance Benchmark
@@ -136,7 +135,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
 ## FFI Bindings
 
-  - [ihnorton/mojo-ffi](https://github.com/ihnorton/mojo-ffi) <img src="https://img.shields.io/github/stars/ihnorton/mojo-ffi?style=social"/> :Mojo FFI Notes.
+  - [ihnorton/mojo-ffi](https://github.com/ihnorton/mojo-ffi) <img src="https://img.shields.io/github/stars/ihnorton/mojo-ffi?style=social"/> : Mojo FFI Notes.
 
 
 
@@ -183,6 +182,8 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [ONNX-MLIR](https://github.com/onnx/onnx-mlir) <img src="https://img.shields.io/github/stars/onnx/onnx-mlir?style=social"/> : Representation and Reference Lowering of ONNX Models in MLIR Compiler Infrastructure.
 
     - [TPU-MLIR](https://github.com/sophgo/tpu-mlir) <img src="https://img.shields.io/github/stars/sophgo/tpu-mlir?style=social"/> : Machine learning compiler based on MLIR for Sophgo TPU.
+
+    - [IREE](https://github.com/iree-org/iree) <img src="https://img.shields.io/github/stars/iree-org/iree?style=social"/> : A retargetable MLIR-based machine learning compiler and runtime toolkit. [iree.dev/](http://iree.dev/)
 
     - [Basalt](https://github.com/basalt-org/basalt) <img src="https://img.shields.io/github/stars/basalt-org/basalt?style=social"/> : A Machine Learning framework from scratch in Pure Mojo 🔥. Basalt is a stand-alone machine learning framework that leverages the power of Mojo.
 
