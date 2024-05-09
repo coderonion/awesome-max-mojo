@@ -101,6 +101,8 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
 ## Performance Benchmark
 
+  - [MoSafi2/BlazeSeq](https://github.com/MoSafi2/BlazeSeq) <img src="https://img.shields.io/github/stars/MoSafi2/BlazeSeq?style=social"/> : BlazeSeq🔥. Community Spotlight: Outperforming Rust ⚙️ DNA sequence parsing benchmarks by 50% with Mojo 🔥.
+
   - [manatlan/sudoku_resolver](https://github.com/manatlan/sudoku_resolver) <img src="https://img.shields.io/github/stars/manatlan/sudoku_resolver?style=social"/> : just to compare perf between mojo, nim, java, nodejs, rust and python3 of a same algo.
 
   - [jiel/laplacian_filters_benchmark](https://github.com/jiel/laplacian_filters_benchmark) <img src="https://img.shields.io/github/stars/jiel/laplacian_filters_benchmark?style=social"/> : benchmark of python and mojo implementations of the Laplacian filter (edge detection).
@@ -108,6 +110,9 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
   - [dev0x13/gemm-benchmark-2023](https://github.com/dev0x13/gemm-benchmark-2023) <img src="https://img.shields.io/github/stars/dev0x13/gemm-benchmark-2023?style=social"/> : Benchmarks for modern (2023) high-performance floating-point GEMM implementations.
 
   - [RedKinda/mojo-benchmarks](https://github.com/RedKinda/mojo-benchmarks) <img src="https://img.shields.io/github/stars/RedKinda/mojo-benchmarks?style=social"/> : mojo-benchmarks.
+
+
+
 
 
 
@@ -326,3 +331,4 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [2024-04-02，What’s new in Mojo 24.2: Mojo Nightly, Enhanced Python Interop, OSS stdlib and more](https://www.modular.com/blog/whats-new-in-mojo-24-2-mojo-nightly-enhanced-python-interop-oss-stdlib-and-more)
     - [2024-04-10，Row-major vs. column-major matrices: a performance analysis in Mojo and NumPy](https://www.modular.com/blog/row-major-vs-column-major-matrices-a-performance-analysis-in-mojo-and-numpy)
     - [2024-05-02，What’s New in Mojo 24.3: Community Contributions, Pythonic Collections and Core Language Enhancements](https://www.modular.com/blog/whats-new-in-mojo-24-3-community-contributions-pythonic-collections-and-core-language-enhancements)
+    - [2024-05-08，Developer Voices: Deep Dive with Chris Lattner on Mojo](https://www.modular.com/blog/developer-voices-deep-dive-with-chris-lattner-on-mojo)
