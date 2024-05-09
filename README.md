@@ -85,6 +85,8 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
         - [helehex/mojo-test](https://github.com/helehex/mojo-test) <img src="https://img.shields.io/github/stars/helehex/mojo-test?style=social"/> : mojo examples, tests, and ideas.
 
+        - [Brian-M-J/sicp_mojo](https://github.com/Brian-M-J/sicp_mojo) <img src="https://img.shields.io/github/stars/Brian-M-J/sicp_mojo?style=social"/> : A port of Structure and Interpretation of Computer Programs to Mojo🔥
+
 
     - #### MLIR Learning
 
@@ -101,12 +103,12 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
   - [manatlan/sudoku_resolver](https://github.com/manatlan/sudoku_resolver) <img src="https://img.shields.io/github/stars/manatlan/sudoku_resolver?style=social"/> : just to compare perf between mojo, nim, java, nodejs, rust and python3 of a same algo.
 
-
-  - [jiel/laplacian_filters_benchmark](https://github.com/jiel/laplacian_filters_benchmark) <img src="https://img.shields.io/github/stars/jiel/laplacian_filters_benchmark?style=social"/> : benchmark of python and mojo implementations of the Laplacian filter (edge detection).
-
   - [jiel/laplacian_filters_benchmark](https://github.com/jiel/laplacian_filters_benchmark) <img src="https://img.shields.io/github/stars/jiel/laplacian_filters_benchmark?style=social"/> : benchmark of python and mojo implementations of the Laplacian filter (edge detection).
 
   - [dev0x13/gemm-benchmark-2023](https://github.com/dev0x13/gemm-benchmark-2023) <img src="https://img.shields.io/github/stars/dev0x13/gemm-benchmark-2023?style=social"/> : Benchmarks for modern (2023) high-performance floating-point GEMM implementations.
+
+  - [RedKinda/mojo-benchmarks](https://github.com/RedKinda/mojo-benchmarks) <img src="https://img.shields.io/github/stars/RedKinda/mojo-benchmarks?style=social"/> : mojo-benchmarks.
+
 
 
 
