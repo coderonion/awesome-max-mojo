@@ -32,6 +32,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
   - [Hash Function](#hash-function)
   - [HTTP Framework](#http-framework)
   - [Web Framework](#web-framework)
+  - [Translation](#translation)
   - [Quantitative Trading](#quantitative-trading)
   - [GUI](#gui)
   - [Blogs](#blogs)
@@ -297,6 +298,12 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
 
   - [tkruer/campfire](https://github.com/tkruer/campfire) <img src="https://img.shields.io/github/stars/tkruer/campfire?style=social"/> : A web framework for the Mojo programming language.
+
+
+
+## Translation
+
+  - [msaelices/py2mojo](https://github.com/msaelices/py2mojo) <img src="https://img.shields.io/github/stars/msaelices/py2mojo?style=social"/> : Automated Python to Mojo code translation.
 
 
 
