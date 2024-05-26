@@ -36,7 +36,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
   - [Quantitative Trading](#quantitative-trading)
   - [GUI](#gui)
   - [Blogs](#blogs)
-
+  - [Videos](#videos)
 
 
 ## Summary
@@ -112,7 +112,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
   - [RedKinda/mojo-benchmarks](https://github.com/RedKinda/mojo-benchmarks) <img src="https://img.shields.io/github/stars/RedKinda/mojo-benchmarks?style=social"/> : mojo-benchmarks.
 
-
+  - [RicRax/mojo_vs_python](https://github.com/RicRax/mojo_vs_python) <img src="https://img.shields.io/github/stars/RicRax/mojo_vs_python?style=social"/> : Different benchmarks implemented in mojo and python.
 
 
 
@@ -128,9 +128,9 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
 ## Data Structure and Algorithm
 
-  - [Honkware/sort.mojo](https://github.com/Honkware/sort.mojo) <img src="https://img.shields.io/github/stars/Honkware/sort.mojo?style=social"/> : sorting algorithms written in Mojo.
-
   - [mzaks/compact-dict](https://github.com/mzaks/compact-dict) <img src="https://img.shields.io/github/stars/mzaks/compact-dict?style=social"/> : A fast and compact Dict implementation in Mojo 🔥
+
+  - [Honkware/sort.mojo](https://github.com/Honkware/sort.mojo) <img src="https://img.shields.io/github/stars/Honkware/sort.mojo?style=social"/> : sorting algorithms written in Mojo.
 
   - [mzaks/mojo-flx](https://github.com/mzaks/mojo-flx) <img src="https://img.shields.io/github/stars/mzaks/mojo-flx?style=social"/> : FlexBuffers implementation in Mojo.
 
@@ -144,6 +144,8 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 ## FFI Bindings
 
   - [ihnorton/mojo-ffi](https://github.com/ihnorton/mojo-ffi) <img src="https://img.shields.io/github/stars/ihnorton/mojo-ffi?style=social"/> : Mojo FFI Notes.
+
+  - [Benny-Nottonson/glibc.mojo](https://github.com/Benny-Nottonson/glibc.mojo) <img src="https://img.shields.io/github/stars/Benny-Nottonson/glibc.mojo?style=social"/> : A wrapper around GLibC for use in Mojo programs, provides higher level functions for accessing C system calls.
 
 
 
@@ -169,11 +171,13 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
     - [helehex/infrared](https://github.com/helehex/infrared) <img src="https://img.shields.io/github/stars/helehex/infrared?style=social"/> : Geometric Algebra for Mojo🔥
 
+    - [keittlab/numojo](https://github.com/keittlab/numojo) <img src="https://img.shields.io/github/stars/keittlab/numojo?style=social"/> : Numerics for Mojo.
+
 
 
   - ### Linear Algebra
 
-    - [NuMojo](https://github.com/MadAlex1997/NuMojo) <img src="https://img.shields.io/github/stars/MadAlex1997/NuMojo?style=social"/> : NuMojo is a library for numerical computing in Mojo similar to numpy in Python.
+    - [MadAlex1997/NuMojo](https://github.com/MadAlex1997/NuMojo) <img src="https://img.shields.io/github/stars/MadAlex1997/NuMojo?style=social"/> : NuMojo is a library for numerical computing in Mojo similar to numpy in Python.
 
     - [tjkessler/mojoml](https://github.com/tjkessler/mojoml) <img src="https://img.shields.io/github/stars/tjkessler/mojoml?style=social"/> : Linear algebra and machine learning in Mojo 🔥
 
@@ -218,8 +222,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
     - [llm.mojo](https://github.com/dorjeduck/llm.mojo) <img src="https://img.shields.io/github/stars/dorjeduck/llm.mojo?style=social"/> : port of Andrjey Karpathy's llm.c to Mojo.
 
-
-
+    - [lKCaverly/mojo_gpt_from_scratch](https://github.com/KCaverly/mojo_gpt_from_scratch) <img src="https://img.shields.io/github/stars/KCaverly/mojo_gpt_from_scratch?style=social"/> : An implementation of GPT in Mojo From Scratch.
 
 
   - ### AI Generated Content
@@ -269,6 +272,8 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
 
 ## Image Processing
+
+  - [Benny-Nottonson/MIL](https://github.com/https://github.com/Benny-Nottonson/MIL) <img src="https://img.shields.io/github/stars/Benny-Nottonson/MIL?style=social"/> : An image library for Mojo, inspired by PIL.
 
   - [fnands/mimage](https://github.com/fnands/mimage) <img src="https://img.shields.io/github/stars/fnands/mimage?style=social"/> : A library for parsing images in Mojo.
 
@@ -327,15 +332,60 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 ## Blogs
 
   - [Modular Blog](https://www.modular.com/blog)
+    - [2022-04-26，The future of AI depends on Modularity](https://www.modular.com/blog/the-future-of-ai-depends-on-modularity)
+    - [2023-03-23，AI’s compute fragmentation: what matrix multiplication teaches us](https://www.modular.com/blog/ais-compute-fragmentation-what-matrix-multiplication-teaches-us)
+    - [2023-04-20，The world's fastest unified matrix multiplication](https://www.modular.com/blog/the-worlds-fastest-unified-matrix-multiplication)
     - [2023-05-02，A unified, extensible platform to superpower your AI](https://www.modular.com/blog/a-unified-extensible-platform-to-superpower-your-ai)
     - [2023-06-08，Do LLMs eliminate the need for programming languages?](https://www.modular.com/blog/do-llms-eliminate-the-need-for-programming-languages)
+    - [2023-08-08，An easy introduction to Mojo🔥 for Python programmers](https://www.modular.com/blog/an-easy-introduction-to-mojo-for-python-programmers)
+    - [2023-08-18，How Mojo🔥 gets a 35,000x speedup over Python – Part 1](https://www.modular.com/blog/how-mojo-gets-a-35-000x-speedup-over-python-part-1)
     - [2023-08-24，We’ve raised $100M to fix AI infrastructure for the world's developers](https://www.modular.com/blog/weve-raised-100m-to-fix-ai-infrastructure-for-the-worlds-developers)
+    - [2023-08-28，How Mojo🔥 gets a 35,000x speedup over Python – Part 2](hhttps://www.modular.com/blog/how-mojo-gets-a-35-000x-speedup-over-python-part-2)
+    - [2023-09-06，Mojo🔥 - A journey to 68,000x speedup over Python - Part 3](https://www.modular.com/blog/mojo-a-journey-to-68-000x-speedup-over-python-part-3)
+    - [2023-09-07，Mojo🔥 - It’s finally here!](https://www.modular.com/blog/mojo-its-finally-here)
+    - [2023-10-02，Using Mojo🔥 with Python🐍](https://www.modular.com/blog/using-mojo-with-python)
     - [2023-10-13，Community Spotlight: How I built llama2.🔥 by Aydyn Tairov](https://www.modular.com/blog/community-spotlight-how-i-built-llama2-by-aydyn-tairov)
+    - [2023-10-15，Mojo 🔥 - A systems programming language presented at LLVM 2023](https://www.modular.com/blog/mojo-llvm-2023)
+    - [2023-10-19，Mojo🔥 is now available on Mac](https://www.modular.com/blog/mojo-is-now-available-on-mac)
+    - [2023-11-14，What’s new in Mojo SDK v0.5?](https://www.modular.com/blog/whats-new-in-mojo-sdk-v0-5)
+    - [2023-11-20，Implementing NumPy style matrix slicing in Mojo🔥](https://www.modular.com/blog/implementing-numpy-style-matrix-slicing-in-mojo)
+    - [2023-11-21，ModCon Mojo 🔥 Contest](https://www.modular.com/blog/modcon-mojo-contest)
+    - [2023-11-22，ModCon 2023 sessions you don’t want to miss!](https://www.modular.com/blog/modcon-2023-sessions-you-dont-want-to-miss)
+    - [2023-12-03，Mojo 🔥 Traits Have Arrived!](https://www.modular.com/blog/mojo-traits-have-arrived)
+    - [2023-12-04，Key announcements from ModCon 2023](https://www.modular.com/blog/key-announcements-from-modcon-2023)
+    - [2024-01-23，Mojo 🔥 lightning talk ⚡️ one language for all AI programming!](https://www.modular.com/blog/mojo-lightning-talk)
+    - [2024-01-25，Mojo🔥 SDK v0.7 now available for download!](https://www.modular.com/blog/mojo-sdk-v0-7-now-available-for-download)
+    - [2024-01-29，What is loop unrolling? How you can speed up Mojo🔥 code with @unroll](https://www.modular.com/blog/what-is-loop-unrolling-how-you-can-speed-up-mojo)
     - [2024-02-02，Community Spotlight: Outperforming Rust ⚙️ DNA sequence parsing benchmarks by 50% with Mojo 🔥](https://www.modular.com/blog/outperforming-rust-benchmarks-with-mojo)
     - [2024-02-12，Mojo vs. Rust: is Mojo 🔥 faster than Rust 🦀 ?](https://www.modular.com/blog/mojo-vs-rust-is-mojo-faster-than-rust)
+    - [2024-02-15，Mojo🔥 ♥️ Python: Calculating and plotting a Valentine’s day ♥️ using Mojo and Python](https://www.modular.com/blog/mojo-python-calculating-and-plotting-a-valentines-day-using-mojo-and-python)
+    - [2024-02-26，What are dunder methods? A guide in Mojo🔥](https://www.modular.com/blog/what-are-dunder-methods-a-guide-in-mojo)
     - [2024-02-29，MAX is here! What does that mean for Mojo🔥?](https://www.modular.com/blog/max-is-here-what-does-that-mean-for-mojo)
+    - [2024-03-14，Mojo🔥 ❤️ Pi 🥧: Approximating Pi with Mojo🔥 using Monte Carlo methods](https://www.modular.com/blog/mojo-pi-approximating-pi-with-mojo-using-monte-carlo-methods)
     - [2024-03-28，The Next Big Step in Mojo🔥 Open Source](https://www.modular.com/blog/the-next-big-step-in-mojo-open-source)
     - [2024-04-02，What’s new in Mojo 24.2: Mojo Nightly, Enhanced Python Interop, OSS stdlib and more](https://www.modular.com/blog/whats-new-in-mojo-24-2-mojo-nightly-enhanced-python-interop-oss-stdlib-and-more)
+    - [2024-04-08，How to Contribute to Mojo Standard Library: A Step-by-Step Guide](https://www.modular.com/blog/how-to-contribute-to-mojo-standard-library-a-step-by-step-guide)
     - [2024-04-10，Row-major vs. column-major matrices: a performance analysis in Mojo and NumPy](https://www.modular.com/blog/row-major-vs-column-major-matrices-a-performance-analysis-in-mojo-and-numpy)
     - [2024-05-02，What’s New in Mojo 24.3: Community Contributions, Pythonic Collections and Core Language Enhancements](https://www.modular.com/blog/whats-new-in-mojo-24-3-community-contributions-pythonic-collections-and-core-language-enhancements)
     - [2024-05-08，Developer Voices: Deep Dive with Chris Lattner on Mojo](https://www.modular.com/blog/developer-voices-deep-dive-with-chris-lattner-on-mojo)
+    - [2024-05-15，What Does Joe Pamer, AI and PL expert, Want From Mojo?](https://www.modular.com/blog/meet-joe-pamer-mojo-engineering-lead)
+    - [2024-05-20，Fast⚡ K-Means Clustering in Mojo🔥: Guide to Porting Python to Mojo🔥 for Accelerated K-Means Clustering](https://www.modular.com/blog/fast-k-means-clustering-in-mojo-guide-to-porting-python-to-mojo-for-accelerated-k-means-clusteringuiu)
+
+
+## Videos
+
+  - [Modular](https://www.youtube.com/@modularinc)
+    - [2023-05-03，Product Launch 2023 Keynote](https://www.youtube.com/watch?v=-3Kf2ZZU-dg)
+    - [2023-05-03，Modular Product Keynote in 121 seconds](https://www.youtube.com/watch?v=LaWTkXruke0)
+    - [2023-08-26，Speeding up Python code with Mojo🔥: Mandelbrot example](https://www.youtube.com/watch?v=wFMB0VSH51M)
+    - [2023-09-02，Modular Community Livestream - 6 popular questions and answers](https://www.youtube.com/watch?v=mQh9es5gfpo)
+    - [2023-10-07，Introduction to Tensors in Mojo🔥](https://www.youtube.com/watch?v=3OWkXNdkx8E)
+    - [2023-10-10，Cross Platform Mojo App with Conda, PyTorch and Matplotlib](https://www.youtube.com/watch?v=bmpjT0T4IDY)
+    - [2023-12-05，ModCon23 Keynote Livestream](https://www.youtube.com/watch?v=VKxNGFhpYQc)
+    - [2024-05-13，Mojo🔥: a deep dive on ownership with Chris Lattner](https://www.youtube.com/watch?v=9ag0fPMmYPQ)
+    - [2024-05-24，Mojo Community Meeting #1](https://www.youtube.com/watch?v=uIG9q9foIw0)
+  - [Developer Voices](https://www.youtube.com/@DeveloperVoices)
+    - [2024-02-10，Mojo Lang - Tomorrow's High Performance Python? (with Chris Lattner)](https://www.youtube.com/watch?v=JRcXUuQYR90)
+  - [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen)
+    - [2024-02-10，Mojo Is FASTER Than Rust](https://www.youtube.com/watch?v=kmmqHV26Ukg)
+    - [2024-02-16，[UPDATE] Mojo Is Faster Than Rust - Mojo Explains More](https://www.youtube.com/watch?v=MDblUyz0PtQ)
