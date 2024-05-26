@@ -88,10 +88,17 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
         - [Brian-M-J/sicp_mojo](https://github.com/Brian-M-J/sicp_mojo) <img src="https://img.shields.io/github/stars/Brian-M-J/sicp_mojo?style=social"/> : A port of Structure and Interpretation of Computer Programs to Mojo🔥
 
+        - [bumbii/code](https://github.com/bumbii/code) <img src="https://img.shields.io/github/stars/bumbii/code?style=social"/> : Coding exercises in multiple programming languages (Python, Mojo...). [bumbii.tech](https://bumbii.tech/)
+
+
 
     - #### MLIR Learning
 
         - [MLIR Docs](https://mlir.llvm.org/docs/) : MLIR Code Documentation.
+
+        - ['gpu' Dialect](https://mlir.llvm.org/docs/Dialects/GPU/) : This dialect provides middle-level abstractions for launching GPU kernels following a programming model similar to that of CUDA or OpenCL.
+
+        - ['amdgpu' Dialect](https://mlir.llvm.org/docs/Dialects/AMDGPU/) : The AMDGPU dialect provides wrappers around AMD-specific functionality and LLVM intrinsics.
 
         - [BBuf/tvm_mlir_learn](https://github.com/BBuf/tvm_mlir_learn) <img src="https://img.shields.io/github/stars/BBuf/tvm_mlir_learn?style=social"/> : compiler learning resources collect.
 
@@ -340,7 +347,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [2023-08-08，An easy introduction to Mojo🔥 for Python programmers](https://www.modular.com/blog/an-easy-introduction-to-mojo-for-python-programmers)
     - [2023-08-18，How Mojo🔥 gets a 35,000x speedup over Python – Part 1](https://www.modular.com/blog/how-mojo-gets-a-35-000x-speedup-over-python-part-1)
     - [2023-08-24，We’ve raised $100M to fix AI infrastructure for the world's developers](https://www.modular.com/blog/weve-raised-100m-to-fix-ai-infrastructure-for-the-worlds-developers)
-    - [2023-08-28，How Mojo🔥 gets a 35,000x speedup over Python – Part 2](hhttps://www.modular.com/blog/how-mojo-gets-a-35-000x-speedup-over-python-part-2)
+    - [2023-08-28，How Mojo🔥 gets a 35,000x speedup over Python – Part 2](https://www.modular.com/blog/how-mojo-gets-a-35-000x-speedup-over-python-part-2)
     - [2023-09-06，Mojo🔥 - A journey to 68,000x speedup over Python - Part 3](https://www.modular.com/blog/mojo-a-journey-to-68-000x-speedup-over-python-part-3)
     - [2023-09-07，Mojo🔥 - It’s finally here!](https://www.modular.com/blog/mojo-its-finally-here)
     - [2023-10-02，Using Mojo🔥 with Python🐍](https://www.modular.com/blog/using-mojo-with-python)
