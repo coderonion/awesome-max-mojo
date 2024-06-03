@@ -34,6 +34,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
   - [Web Framework](#web-framework)
   - [Translation](#translation)
   - [Quantitative Trading](#quantitative-trading)
+  - [Data Storing and Processing](#data-storing-and-processing)
   - [GUI](#gui)
   - [Blogs](#blogs)
   - [Videos](#videos)
@@ -188,6 +189,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
     - [tjkessler/mojoml](https://github.com/tjkessler/mojoml) <img src="https://img.shields.io/github/stars/tjkessler/mojoml?style=social"/> : Linear algebra and machine learning in Mojo 🔥
 
+    - [shivasankarka/SciJo](https://github.com/shivasankarka/SciJo) <img src="https://img.shields.io/github/stars/shivasankarka/SciJo?style=social"/> : SciJo is a high-performance numerical computation library in Mojo, inspired by NumPy, SciPy, and Scikit-HEP. It offers efficient array operations and mathematical functions and much more for scientific computing.
 
 
 
@@ -212,8 +214,6 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
     - [tjkessler/mojoml](https://github.com/tjkessler/mojoml) <img src="https://img.shields.io/github/stars/tjkessler/mojoml?style=social"/> : Linear algebra and machine learning in Mojo 🔥
 
-    - [PumeTu/hanabi](https://github.com/PumeTu/hanabi) <img src="https://img.shields.io/github/stars/PumeTu/hanabi?style=social"/> : Minimal Deep Learning framework in Mojo🔥
-
     - [henrithomas/mojo-neural-net](https://github.com/henrithomas/mojo-neural-net) <img src="https://img.shields.io/github/stars/henrithomas/mojo-neural-net?style=social"/> : simple neural network implementation in mojo.
 
     - [openxla/iree](https://github.com/openxla/iree) <img src="https://img.shields.io/github/stars/openxla/iree?style=social"/> : IREE: Intermediate Representation Execution Environment. A retargetable MLIR-based machine learning compiler and runtime toolkit. [iree.dev/](http://iree.dev/)
@@ -230,6 +230,9 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [llm.mojo](https://github.com/dorjeduck/llm.mojo) <img src="https://img.shields.io/github/stars/dorjeduck/llm.mojo?style=social"/> : port of Andrjey Karpathy's llm.c to Mojo.
 
     - [lKCaverly/mojo_gpt_from_scratch](https://github.com/KCaverly/mojo_gpt_from_scratch) <img src="https://img.shields.io/github/stars/KCaverly/mojo_gpt_from_scratch?style=social"/> : An implementation of GPT in Mojo From Scratch.
+
+    - [Terapines/llama3.mojo](https://github.com/Terapines/llama3.mojo) <img src="https://img.shields.io/github/stars/Terapines/llama3.mojo?style=social"/> : llama3 in mojo🔥
+
 
 
   - ### AI Generated Content
@@ -326,6 +329,15 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
 
 
+## Data Storing and Processing
+
+  - [mojo-data/arrow.mojot](https://github.com/mojo-data/arrow.mojot) <img src="https://img.shields.io/github/stars/mojo-data/arrow.mojot?style=social"/> : Apache Arrow in Mojo🔥
+
+
+
+
+
+
 
 ## GUI
 
@@ -377,6 +389,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [2024-05-08，Developer Voices: Deep Dive with Chris Lattner on Mojo](https://www.modular.com/blog/developer-voices-deep-dive-with-chris-lattner-on-mojo)
     - [2024-05-15，What Does Joe Pamer, AI and PL expert, Want From Mojo?](https://www.modular.com/blog/meet-joe-pamer-mojo-engineering-lead)
     - [2024-05-20，Fast⚡ K-Means Clustering in Mojo🔥: Guide to Porting Python to Mojo🔥 for Accelerated K-Means Clustering](https://www.modular.com/blog/fast-k-means-clustering-in-mojo-guide-to-porting-python-to-mojo-for-accelerated-k-means-clusteringuiu)
+    - [2024-05-29，What Ownership is Really About: A Mental Model Approach](https://www.modular.com/blog/what-ownership-is-really-about-a-mental-model-approach)
 
 
 ## Videos
