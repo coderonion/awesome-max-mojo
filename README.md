@@ -97,15 +97,13 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
         - [MLIR Docs](https://mlir.llvm.org/docs/) : MLIR Code Documentation.
 
-        - ['gpu' Dialect](https://mlir.llvm.org/docs/Dialects/GPU/) : This dialect provides middle-level abstractions for launching GPU kernels following a programming model similar to that of CUDA or OpenCL.
-
-        - ['amdgpu' Dialect](https://mlir.llvm.org/docs/Dialects/AMDGPU/) : The AMDGPU dialect provides wrappers around AMD-specific functionality and LLVM intrinsics.
-
         - [BBuf/tvm_mlir_learn](https://github.com/BBuf/tvm_mlir_learn) <img src="https://img.shields.io/github/stars/BBuf/tvm_mlir_learn?style=social"/> : compiler learning resources collect.
 
         - [j2kun/mlir-tutorial](https://github.com/j2kun/mlir-tutorial) <img src="https://img.shields.io/github/stars/j2kun/mlir-tutorial?style=social"/> : This is the code repository for a series of articles on the [MLIR framework](https://mlir.llvm.org/) for building compilers.
 
         - [KEKE046/mlir-tutorial](https://github.com/KEKE046/mlir-tutorial) <img src="https://img.shields.io/github/stars/KEKE046/mlir-tutorial?style=social"/> : Hands-On Practical MLIR Tutorial.
+
+        - [HaruTzuki/MojoLessons](https://github.com/HaruTzuki/MojoLessons) <img src="https://img.shields.io/github/stars/HaruTzuki/MojoLessons?style=social"/> : MojoLessons.
 
 
 ## Performance Benchmark
@@ -121,6 +119,9 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
   - [RedKinda/mojo-benchmarks](https://github.com/RedKinda/mojo-benchmarks) <img src="https://img.shields.io/github/stars/RedKinda/mojo-benchmarks?style=social"/> : mojo-benchmarks.
 
   - [RicRax/mojo_vs_python](https://github.com/RicRax/mojo_vs_python) <img src="https://img.shields.io/github/stars/RicRax/mojo_vs_python?style=social"/> : Different benchmarks implemented in mojo and python.
+
+  - [vincentme/onnx-kmeans](https://github.com/vincentme/onnx-kmeans) <img src="https://img.shields.io/github/stars/vincentme/onnx-kmeans?style=social"/> : 使用ONNX实现传统算法——以Kmeans聚类为例并和python/mojo实现对比; Using ONNX to implement traditional algorithms - taking Kmeans clustering as an example and comparing it with python/mojo.
+
 
 
 
@@ -151,6 +152,8 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
 ## FFI Bindings
 
+  - [spcl/pymlir](https://github.com/spcl/pymlir) <img src="https://img.shields.io/github/stars/spcl/pymlir?style=social"/> : Python interface for MLIR - the Multi-Level Intermediate Representation.
+
   - [ihnorton/mojo-ffi](https://github.com/ihnorton/mojo-ffi) <img src="https://img.shields.io/github/stars/ihnorton/mojo-ffi?style=social"/> : Mojo FFI Notes.
 
   - [Benny-Nottonson/glibc.mojo](https://github.com/Benny-Nottonson/glibc.mojo) <img src="https://img.shields.io/github/stars/Benny-Nottonson/glibc.mojo?style=social"/> : A wrapper around GLibC for use in Mojo programs, provides higher level functions for accessing C system calls.
@@ -159,8 +162,11 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
 ## GPU Programming
 
-  - [AyakaGEMM/Hands-on-MLIR](https://github.com/AyakaGEMM/Hands-on-MLIR) <img src="https://img.shields.io/github/stars/AyakaGEMM/Hands-on-MLIR?style=social"/> : Hands-on-MLIR.
+  - ['gpu' Dialect](https://mlir.llvm.org/docs/Dialects/GPU/) : This dialect provides middle-level abstractions for launching GPU kernels following a programming model similar to that of CUDA or OpenCL.
 
+  - ['amdgpu' Dialect](https://mlir.llvm.org/docs/Dialects/AMDGPU/) : The AMDGPU dialect provides wrappers around AMD-specific functionality and LLVM intrinsics.
+
+  - [AyakaGEMM/Hands-on-MLIR](https://github.com/AyakaGEMM/Hands-on-MLIR) <img src="https://img.shields.io/github/stars/AyakaGEMM/Hands-on-MLIR?style=social"/> : Hands-on-MLIR.
 
   - [yao-jiashu/KernelCodeGen](https://github.com/yao-jiashu/KernelCodeGen) <img src="https://img.shields.io/github/stars/yao-jiashu/KernelCodeGen?style=social"/> : GEMM/Conv2d CUDA/HIP kernel code generation using MLIR.
 
@@ -390,6 +396,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [2024-05-15，What Does Joe Pamer, AI and PL expert, Want From Mojo?](https://www.modular.com/blog/meet-joe-pamer-mojo-engineering-lead)
     - [2024-05-20，Fast⚡ K-Means Clustering in Mojo🔥: Guide to Porting Python to Mojo🔥 for Accelerated K-Means Clustering](https://www.modular.com/blog/fast-k-means-clustering-in-mojo-guide-to-porting-python-to-mojo-for-accelerated-k-means-clusteringuiu)
     - [2024-05-29，What Ownership is Really About: A Mental Model Approach](https://www.modular.com/blog/what-ownership-is-really-about-a-mental-model-approach)
+    - [2024-06-04，Deep Dive into Ownership in Mojo](https://www.modular.com/blog/deep-dive-into-ownership-in-mojo)
 
 
 ## Videos
