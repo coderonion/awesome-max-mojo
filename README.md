@@ -38,7 +38,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
   - [GUI](#gui)
   - [Blogs](#blogs)
   - [Videos](#videos)
-
+  - [Jobs and Interview](#jobs-and-interview)
 
 ## Summary
 
@@ -91,6 +91,8 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
         - [bumbii/code](https://github.com/bumbii/code) <img src="https://img.shields.io/github/stars/bumbii/code?style=social"/> : Coding exercises in multiple programming languages (Python, Mojo...). [bumbii.tech](https://bumbii.tech/)
 
+        - [HaruTzuki/MojoLessons](https://github.com/HaruTzuki/MojoLessons) <img src="https://img.shields.io/github/stars/HaruTzuki/MojoLessons?style=social"/> : MojoLessons.
+
 
 
     - #### MLIR Learning
@@ -103,7 +105,6 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
         - [KEKE046/mlir-tutorial](https://github.com/KEKE046/mlir-tutorial) <img src="https://img.shields.io/github/stars/KEKE046/mlir-tutorial?style=social"/> : Hands-On Practical MLIR Tutorial.
 
-        - [HaruTzuki/MojoLessons](https://github.com/HaruTzuki/MojoLessons) <img src="https://img.shields.io/github/stars/HaruTzuki/MojoLessons?style=social"/> : MojoLessons.
 
 
 ## Performance Benchmark
@@ -191,7 +192,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
   - ### Linear Algebra
 
-    - [MadAlex1997/NuMojo](https://github.com/MadAlex1997/NuMojo) <img src="https://img.shields.io/github/stars/MadAlex1997/NuMojo?style=social"/> : NuMojo is a library for numerical computing in Mojo similar to numpy in Python.
+    - [Mojo-Numerics-and-Algorithms-group/NuMojo](https://github.com/Mojo-Numerics-and-Algorithms-group/NuMojo) <img src="https://img.shields.io/github/stars/Mojo-Numerics-and-Algorithms-group/NuMojo?style=social"/> : A numerics library for the Mojo programming language.
 
     - [tjkessler/mojoml](https://github.com/tjkessler/mojoml) <img src="https://img.shields.io/github/stars/tjkessler/mojoml?style=social"/> : Linear algebra and machine learning in Mojo 🔥
 
@@ -416,3 +417,9 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
   - [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen)
     - [2024-02-10，Mojo Is FASTER Than Rust](https://www.youtube.com/watch?v=kmmqHV26Ukg)
     - [2024-02-16，[UPDATE] Mojo Is Faster Than Rust - Mojo Explains More](https://www.youtube.com/watch?v=MDblUyz0PtQ)
+
+
+## Jobs and Interview
+
+  - 微信公众号「HelloGCC」
+    - [2024-03-08，一大波前沿编译器岗位来袭，Dataflow, Mojo, MLIR, CIRCT, ClangIR, LLVM...](https://mp.weixin.qq.com/s/rntOFBKKFOdmt5arGzsvFA)
