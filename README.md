@@ -398,6 +398,9 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [2024-05-20，Fast⚡ K-Means Clustering in Mojo🔥: Guide to Porting Python to Mojo🔥 for Accelerated K-Means Clustering](https://www.modular.com/blog/fast-k-means-clustering-in-mojo-guide-to-porting-python-to-mojo-for-accelerated-k-means-clusteringuiu)
     - [2024-05-29，What Ownership is Really About: A Mental Model Approach](https://www.modular.com/blog/what-ownership-is-really-about-a-mental-model-approach)
     - [2024-06-04，Deep Dive into Ownership in Mojo](https://www.modular.com/blog/deep-dive-into-ownership-in-mojo)
+    - [2024-06-07，MAX 24.4 - Introducing Quantization APIs and MAX on macOS](https://www.modular.com/blog/max-24-4-introducing-quantization-apis-and-max-on-macos)
+
+
 
 
 ## Videos
@@ -412,6 +415,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [2023-12-05，ModCon23 Keynote Livestream](https://www.youtube.com/watch?v=VKxNGFhpYQc)
     - [2024-05-13，Mojo🔥: a deep dive on ownership with Chris Lattner](https://www.youtube.com/watch?v=9ag0fPMmYPQ)
     - [2024-05-24，Mojo Community Meeting #1](https://www.youtube.com/watch?v=uIG9q9foIw0)
+    - [2024-06-08，Mojo Community Meeting #2](https://www.youtube.com/watch?v=3FKSlhZNdL0)
   - [Developer Voices](https://www.youtube.com/@DeveloperVoices)
     - [2024-02-10，Mojo Lang - Tomorrow's High Performance Python? (with Chris Lattner)](https://www.youtube.com/watch?v=JRcXUuQYR90)
   - [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen)
