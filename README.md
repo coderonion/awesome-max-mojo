@@ -198,6 +198,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
     - [shivasankarka/SciJo](https://github.com/shivasankarka/SciJo) <img src="https://img.shields.io/github/stars/shivasankarka/SciJo?style=social"/> : SciJo is a high-performance numerical computation library in Mojo, inspired by NumPy, SciPy, and Scikit-HEP. It offers efficient array operations and mathematical functions and much more for scientific computing.
 
+    - [codingonion/monum](https://github.com/codingonion/monum) <img src="https://img.shields.io/github/stars/codingonion/monum?style=social"/> : Mojo BLAS (Basic Linear Algebra Subprograms).
 
 
 
@@ -399,7 +400,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [2024-05-29，What Ownership is Really About: A Mental Model Approach](https://www.modular.com/blog/what-ownership-is-really-about-a-mental-model-approach)
     - [2024-06-04，Deep Dive into Ownership in Mojo](https://www.modular.com/blog/deep-dive-into-ownership-in-mojo)
     - [2024-06-07，MAX 24.4 - Introducing Quantization APIs and MAX on macOS](https://www.modular.com/blog/max-24-4-introducing-quantization-apis-and-max-on-macos)
-
+    - [2024-06-17，What’s New in Mojo 24.4? Improved collections, new traits, os module features and core language enhancements](https://www.modular.com/blog/whats-new-in-mojo-24-4-improved-collections-new-traits-os-module-features-and-core-language-enhancements)
 
 
 
@@ -416,6 +417,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [2024-05-13，Mojo🔥: a deep dive on ownership with Chris Lattner](https://www.youtube.com/watch?v=9ag0fPMmYPQ)
     - [2024-05-24，Mojo Community Meeting #1](https://www.youtube.com/watch?v=uIG9q9foIw0)
     - [2024-06-08，Mojo Community Meeting #2](https://www.youtube.com/watch?v=3FKSlhZNdL0)
+    - [2024-06-18，Mojo Community Meeting #3](https://www.youtube.com/watch?v=onrRbJ6DeYg)
   - [Developer Voices](https://www.youtube.com/@DeveloperVoices)
     - [2024-02-10，Mojo Lang - Tomorrow's High Performance Python? (with Chris Lattner)](https://www.youtube.com/watch?v=JRcXUuQYR90)
   - [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen)
