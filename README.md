@@ -401,6 +401,24 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [2024-06-04，Deep Dive into Ownership in Mojo](https://www.modular.com/blog/deep-dive-into-ownership-in-mojo)
     - [2024-06-07，MAX 24.4 - Introducing Quantization APIs and MAX on macOS](https://www.modular.com/blog/max-24-4-introducing-quantization-apis-and-max-on-macos)
     - [2024-06-17，What’s New in Mojo 24.4? Improved collections, new traits, os module features and core language enhancements](https://www.modular.com/blog/whats-new-in-mojo-24-4-improved-collections-new-traits-os-module-features-and-core-language-enhancements)
+  - 微信公众号「Mojo语言」
+    - [2024-03-03，LLVM之父发起的Mojo比Rust速度更快吗？](https://mp.weixin.qq.com/s/5gQTfNFciwhwdBywpFmr4w)
+  - 微信公众号「生信杂货铺」
+    - [2024-05-10，Mojo 学习 —— 环境配置](https://mp.weixin.qq.com/s/8gxJOLjXTTIifPbQBwH8XA)
+    - [2024-05-11，Mojo 学习 —— 基本语法](https://mp.weixin.qq.com/s/XntAnR6o1xLXq3T8js-FZA)
+    - [2024-05-12，Mojo 学习 —— 数据类型](https://mp.weixin.qq.com/s/emGVEadLQEWhUy9s40p66w)
+    - [2024-05-13，Mojo 学习 —— 函数](https://mp.weixin.qq.com/s/rmRlnciuV1Iyfycw5K2IBg)
+    - [2024-05-14，Mojo 学习 —— 结构体](https://mp.weixin.qq.com/s/A_P_nUge7gWTpS0IGZ7ahA)
+    - [2024-05-15，Mojo 学习 —— 值的所有权](https://mp.weixin.qq.com/s/GiNJVoW9cuXinGiooYr9cg)
+    - [2024-05-16，Mojo 学习 —— 值的生命周期](https://mp.weixin.qq.com/s/EQRutjvZLeMmQbMb1ZyF2g)
+    - [2024-05-17，Mojo 学习 —— 特性（trait）](https://mp.weixin.qq.com/s/TWDWBrHFbBV9CpuQOuBjZg)
+    - [2024-05-18，Mojo 学习 —— 参数化：编译时元编程](https://mp.weixin.qq.com/s/GXr3Iej8Rv8hybeLiGFOpA)
+    - [2024-05-19，Mojo 学习 —— 装饰器](https://mp.weixin.qq.com/s/ujzyiSVWgGAHS3QgCmrHNg)
+    - [2024-05-20，Mojo 学习 —— 与 Python 交互](https://mp.weixin.qq.com/s/ntX0RGNUJl5uNgpHKaIH_g)
+    - [2024-05-21，Mojo 学习 —— 内置结构与函数](https://mp.weixin.qq.com/s/-uRhizTz7Jfd6HLX33xL6w)
+    - [2024-05-22，Mojo 学习 —— SIMD](https://mp.weixin.qq.com/s/Jv6KucJgv89c8J5WaES0sw)
+    - [2024-05-23，Mojo 学习 —— 指针](https://mp.weixin.qq.com/s/OrM-dRITMlkCQAcx_bLYeQ)
+    - [2024-05-24，Mojo 学习 —— 并行化](https://mp.weixin.qq.com/s/JznAX5Xye2gdXAaKP5dIEQ)
 
 
 
