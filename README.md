@@ -11,6 +11,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [Learning Resources](#learning-resources)
       - [Mojo Learning](#mojo-learning)
       - [MLIR Learning](#mlir-learning)
+  - [Model Compilation](#model-compilation)
   - [Performance Benchmark](#performance-benchmark)
   - [Package and Version Manager](#package-and-version-manager)
   - [Data Structure and Algorithm](#data-structure-and-algorithm)
@@ -25,8 +26,10 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [AI Generated Content](#ai-generated-content)
     - [Image Recognition](#image-recognition)
     - [Object Detection](#object-detection)
-  - [Date and Time](#date-and-time)
   - [Test Framework](#test-framework)
+  - [Database](#database)
+  - [Date and Time](#date-and-time)
+  - [Embedded Development](#embedded-development)
   - [File Processing](#file-processing)
   - [Image Processing](#image-processing)
   - [Hash Function](#hash-function)
@@ -55,8 +58,6 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [MLIR](https://mlir.llvm.org/) : Multi-Level Intermediate Representation.
 
     - [llvm/llvm-project](https://github.com/llvm/llvm-project) <img src="https://img.shields.io/github/stars/llvm/llvm-project?style=social"/> : The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. [llvm.org](http://llvm.org/)
-
-    - [ByteIR](https://github.com/bytedance/byteir) <img src="https://img.shields.io/github/stars/bytedance/byteir?style=social"/> : The ByteIR Project is a ByteDance model compilation solution. ByteIR includes compiler, runtime, and frontends, and provides an end-to-end model compilation solution. [byteir.ai](https://byteir.ai/)
 
 
 
@@ -106,8 +107,15 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
         - [KEKE046/mlir-tutorial](https://github.com/KEKE046/mlir-tutorial) <img src="https://img.shields.io/github/stars/KEKE046/mlir-tutorial?style=social"/> : Hands-On Practical MLIR Tutorial.
 
 
+## Model Compilation
+
+  - [ByteIR](https://github.com/bytedance/byteir) <img src="https://img.shields.io/github/stars/bytedance/byteir?style=social"/> : The ByteIR Project is a ByteDance model compilation solution. ByteIR includes compiler, runtime, and frontends, and provides an end-to-end model compilation solution. [byteir.ai](https://byteir.ai/)
+
+
 
 ## Performance Benchmark
+
+  - [Benny-Nottonson/Mojo-Marathons](https://github.com/Benny-Nottonson/Mojo-Marathons) <img src="https://img.shields.io/github/stars/Benny-Nottonson/Mojo-Marathons?style=social"/> : Mojo Marathons 🔥. Welcome to Mojo Marathons, a monthly competition where the best Mojicians showcase their skills and push Mojo to its limits. Compete for prizes and recognition! 🏆
 
   - [MoSafi2/BlazeSeq](https://github.com/MoSafi2/BlazeSeq) <img src="https://img.shields.io/github/stars/MoSafi2/BlazeSeq?style=social"/> : BlazeSeq🔥. Community Spotlight: Outperforming Rust ⚙️ DNA sequence parsing benchmarks by 50% with Mojo 🔥.
 
@@ -139,6 +147,8 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 ## Data Structure and Algorithm
 
   - [mzaks/compact-dict](https://github.com/mzaks/compact-dict) <img src="https://img.shields.io/github/stars/mzaks/compact-dict?style=social"/> : A fast and compact Dict implementation in Mojo 🔥
+
+  - [mikowals/dynamic_vector.mojo](https://github.com/mikowals/dynamic_vector.mojo) <img src="https://img.shields.io/github/stars/mikowals/dynamic_vector.mojo?style=social"/> : An experimental drop-in replacement for Mojo stdlib DynamicVector that demonstrates new features using References.
 
   - [Honkware/sort.mojo](https://github.com/Honkware/sort.mojo) <img src="https://img.shields.io/github/stars/Honkware/sort.mojo?style=social"/> : sorting algorithms written in Mojo.
 
@@ -192,13 +202,15 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
   - ### Linear Algebra
 
+    - [codingonion/monum](https://github.com/codingonion/monum) <img src="https://img.shields.io/github/stars/codingonion/monum?style=social"/> : Mojo BLAS (Basic Linear Algebra Subprograms).
+
     - [Mojo-Numerics-and-Algorithms-group/NuMojo](https://github.com/Mojo-Numerics-and-Algorithms-group/NuMojo) <img src="https://img.shields.io/github/stars/Mojo-Numerics-and-Algorithms-group/NuMojo?style=social"/> : A numerics library for the Mojo programming language.
 
     - [tjkessler/mojoml](https://github.com/tjkessler/mojoml) <img src="https://img.shields.io/github/stars/tjkessler/mojoml?style=social"/> : Linear algebra and machine learning in Mojo 🔥
 
     - [shivasankarka/SciJo](https://github.com/shivasankarka/SciJo) <img src="https://img.shields.io/github/stars/shivasankarka/SciJo?style=social"/> : SciJo is a high-performance numerical computation library in Mojo, inspired by NumPy, SciPy, and Scikit-HEP. It offers efficient array operations and mathematical functions and much more for scientific computing.
 
-    - [codingonion/monum](https://github.com/codingonion/monum) <img src="https://img.shields.io/github/stars/codingonion/monum?style=social"/> : Mojo BLAS (Basic Linear Algebra Subprograms).
+
 
 
 
@@ -265,6 +277,15 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
 
 
+## Test Framework
+
+  - [guidorice/mojo-pytest](https://github.com/guidorice/mojo-pytest) <img src="https://img.shields.io/github/stars/guidorice/mojo-pytest?style=social"/> : Mojo test runner, pytest plugin (aka pytest-mojo).
+
+
+
+## Database
+
+  - [sbrunk/duckdb.mojo](https://github.com/sbrunk/duckdb.mojo) <img src="https://img.shields.io/github/stars/sbrunk/duckdb.mojo?style=social"/> : Mojo Bindings for DuckDB.
 
 
 
@@ -277,9 +298,13 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
 
 
-## Test Framework
+## Embedded Development
 
-  - [guidorice/mojo-pytest](https://github.com/guidorice/mojo-pytest) <img src="https://img.shields.io/github/stars/guidorice/mojo-pytest?style=social"/> : Mojo test runner, pytest plugin (aka pytest-mojo).
+  - [YichengDWu/yoho](https://github.com/YichengDWu/yoho) <img src="https://img.shields.io/github/stars/YichengDWu/yoho?style=social"/> : A compiler written in Mojo 🔥 and generates RISC-V assembly.
+
+
+
+
 
 
 
@@ -295,6 +320,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
   - [fnands/mimage](https://github.com/fnands/mimage) <img src="https://img.shields.io/github/stars/fnands/mimage?style=social"/> : A library for parsing images in Mojo.
 
+  - [f-saez/libjpeg-mojo](https://github.com/f-saez/libjpeg-mojo) <img src="https://img.shields.io/github/stars/f-saez/libjpeg-mojo?style=social"/> : FFI bindings for libjpeg.
 
 
 
@@ -401,6 +427,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [2024-06-04，Deep Dive into Ownership in Mojo](https://www.modular.com/blog/deep-dive-into-ownership-in-mojo)
     - [2024-06-07，MAX 24.4 - Introducing Quantization APIs and MAX on macOS](https://www.modular.com/blog/max-24-4-introducing-quantization-apis-and-max-on-macos)
     - [2024-06-17，What’s New in Mojo 24.4? Improved collections, new traits, os module features and core language enhancements](https://www.modular.com/blog/whats-new-in-mojo-24-4-improved-collections-new-traits-os-module-features-and-core-language-enhancements)
+    - [2024-06-25，What's New in MAX 24.4? MAX on MacOS, Fast Local Llama3, Native Quantization and GGUF Support](https://www.modular.com/blog/whats-new-in-max-24-4-max-on-macos-fast-local-llama3-native-quantization-and-gguf-support)
   - 微信公众号「Mojo语言」
     - [2024-03-03，LLVM之父发起的Mojo比Rust速度更快吗？](https://mp.weixin.qq.com/s/5gQTfNFciwhwdBywpFmr4w)
   - 微信公众号「生信杂货铺」
