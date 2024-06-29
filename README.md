@@ -57,6 +57,8 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
     - [MLIR](https://mlir.llvm.org/) : Multi-Level Intermediate Representation.
 
+    - [LLVM](https://llvm.org/) : The LLVM Compiler Infrastructure.
+
     - [llvm/llvm-project](https://github.com/llvm/llvm-project) <img src="https://img.shields.io/github/stars/llvm/llvm-project?style=social"/> : The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. [llvm.org](http://llvm.org/)
 
 
@@ -97,6 +99,8 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
 
     - #### MLIR Learning
+
+        - [LLVM Docs](https://llvm.org/docs/) : LLVM Documentation.
 
         - [MLIR Docs](https://mlir.llvm.org/docs/) : MLIR Code Documentation.
 
