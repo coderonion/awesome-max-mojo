@@ -27,6 +27,8 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [Image Recognition](#image-recognition)
     - [Object Detection](#object-detection)
   - [Test Framework](#test-framework)
+  - [Command Line Interpreter](#command-line-interpreter)
+  - [Parser](#parser)
   - [Database](#database)
   - [Date and Time](#date-and-time)
   - [Embedded Development](#embedded-development)
@@ -287,6 +289,20 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
 
 
+
+
+## Command Line Interpreter
+
+  - [thatstoasty/prism](https://github.com/thatstoasty/prism) <img src="https://img.shields.io/github/stars/thatstoasty/prism?style=social"/> : Mojo CLI Library modeled after Cobra.
+
+
+
+## Parser
+
+  - [ZacHooper/mojo-json](https://github.com/ZacHooper/mojo-json) <img src="https://img.shields.io/github/stars/ZacHooper/mojo-json?style=social"/> : Json Parser in Mojo.
+
+
+
 ## Database
 
   - [sbrunk/duckdb.mojo](https://github.com/sbrunk/duckdb.mojo) <img src="https://img.shields.io/github/stars/sbrunk/duckdb.mojo?style=social"/> : Mojo Bindings for DuckDB.
@@ -450,6 +466,11 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [2024-05-22，Mojo 学习 —— SIMD](https://mp.weixin.qq.com/s/Jv6KucJgv89c8J5WaES0sw)
     - [2024-05-23，Mojo 学习 —— 指针](https://mp.weixin.qq.com/s/OrM-dRITMlkCQAcx_bLYeQ)
     - [2024-05-24，Mojo 学习 —— 并行化](https://mp.weixin.qq.com/s/JznAX5Xye2gdXAaKP5dIEQ)
+  - 微信公众号「GiantPandaCV」
+    - [2023-06-25，MLIR_对自定义IR Dialect编写bufferization pass](https://mp.weixin.qq.com/s/3aHwYDkI9K3u-10v6-9iVA)
+  - 微信公众号「NeuralTalk」
+    - [2023-06-16，SIMD 指令集与数据并行程序](https://mp.weixin.qq.com/s/dgTtEY5NZh-npQ6KN2WoaA)
+
 
 
 
