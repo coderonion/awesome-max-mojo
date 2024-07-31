@@ -36,6 +36,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
   - [Image Processing](#image-processing)
   - [Hash Function](#hash-function)
   - [HTTP Framework](#http-framework)
+  - [TCP Framework](#tcp-framework)
   - [Web Framework](#web-framework)
   - [Translation](#translation)
   - [Quantitative Trading](#quantitative-trading)
@@ -208,7 +209,9 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
   - ### Linear Algebra
 
-    - [codingonion/monum](https://github.com/codingonion/monum) <img src="https://img.shields.io/github/stars/codingonion/monum?style=social"/> : Mojo BLAS (Basic Linear Algebra Subprograms).
+    - [YichengDWu/matmul.mojo](https://github.com/YichengDWu/matmul.mojo) <img src="https://img.shields.io/github/stars/YichengDWu/matmul.mojo?style=social"/> : High Performance Matrix Multiplication in Pure Mojo 🔥
+
+    - [codingonion/moblas](https://github.com/codingonion/moblas) <img src="https://img.shields.io/github/stars/codingonion/moblas?style=social"/> : BLAS (Basic Linear Algebra Subprograms) library written in mojo programming language.
 
     - [Mojo-Numerics-and-Algorithms-group/NuMojo](https://github.com/Mojo-Numerics-and-Algorithms-group/NuMojo) <img src="https://img.shields.io/github/stars/Mojo-Numerics-and-Algorithms-group/NuMojo?style=social"/> : A numerics library for the Mojo programming language.
 
@@ -233,6 +236,8 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [IREE](https://github.com/iree-org/iree) <img src="https://img.shields.io/github/stars/iree-org/iree?style=social"/> : A retargetable MLIR-based machine learning compiler and runtime toolkit. [iree.dev/](http://iree.dev/)
 
     - [Basalt](https://github.com/basalt-org/basalt) <img src="https://img.shields.io/github/stars/basalt-org/basalt?style=social"/> : A Machine Learning framework from scratch in Pure Mojo 🔥. Basalt is a stand-alone machine learning framework that leverages the power of Mojo.
+
+    - [Endia](https://github.com/endia-org/Endia) <img src="https://img.shields.io/github/stars/endia-org/Endia?style=social"/> : Scientific Computing in Mojo 🔥. Endia is a dynamic Array library for Scientific Computing, similar to PyTorch, Numpy and JAX. [endia.vercel.app](https://endia.vercel.app/)
 
     - [MojoNet](https://github.com/guna-sd/MojoNet) <img src="https://img.shields.io/github/stars/guna-sd/MojoNet?style=social"/> : MojoNet is a ML/DL framework written in mojo🔥
 
@@ -357,6 +362,14 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
 
   - [thatstoasty/mojo-http-client](https://github.com/thatstoasty/mojo-http-client) <img src="https://img.shields.io/github/stars/thatstoasty/mojo-http-client?style=social"/> : Simple socket wrapper and http client for Mojo.
+
+
+
+## TCP Framework
+
+  - [Jensen-holm/FireTCP](https://github.com/Jensen-holm/FireTCP) <img src="https://img.shields.io/github/stars/Jensen-holm/FireTCP?style=social"/> : TCP Service framework for the mojo programming language 🔥
+
+
 
 
 
