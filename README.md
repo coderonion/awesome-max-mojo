@@ -461,6 +461,8 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [2024-06-07，MAX 24.4 - Introducing Quantization APIs and MAX on macOS](https://www.modular.com/blog/max-24-4-introducing-quantization-apis-and-max-on-macos)
     - [2024-06-17，What’s New in Mojo 24.4? Improved collections, new traits, os module features and core language enhancements](https://www.modular.com/blog/whats-new-in-mojo-24-4-improved-collections-new-traits-os-module-features-and-core-language-enhancements)
     - [2024-06-25，What's New in MAX 24.4? MAX on MacOS, Fast Local Llama3, Native Quantization and GGUF Support](https://www.modular.com/blog/whats-new-in-max-24-4-max-on-macos-fast-local-llama3-native-quantization-and-gguf-support)
+    - [2024-07-03，A brief guide to the Mojo n-body example](https://www.modular.com/blog/a-brief-guide-to-the-mojo-n-body-example)
+    - [2024-07-16，Debugging in Mojo🔥](https://www.modular.com/blog/debugging-in-mojo)
   - 微信公众号「Mojo语言」
     - [2024-03-03，LLVM之父发起的Mojo比Rust速度更快吗？](https://mp.weixin.qq.com/s/5gQTfNFciwhwdBywpFmr4w)
   - 微信公众号「生信杂货铺」
