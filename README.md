@@ -209,7 +209,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
   - ### Linear Algebra
 
-    - [YichengDWu/matmul.mojo](https://github.com/YichengDWu/matmul.mojo) <img src="https://img.shields.io/github/stars/YichengDWu/matmul.mojo?style=social"/> : High Performance Matrix Multiplication in Pure Mojo 🔥
+    - [YichengDWu/matmul.mojo](https://github.com/YichengDWu/matmul.mojo) <img src="https://img.shields.io/github/stars/YichengDWu/matmul.mojo?style=social"/> : High Performance Matrix Multiplication in Pure Mojo 🔥. Matmul.🔥 is a high performance muilti-threaded implimentation of the [BLIS](https://en.wikipedia.org/wiki/BLIS_(software)) algorithm in pure Mojo 🔥.
 
     - [codingonion/moblas](https://github.com/codingonion/moblas) <img src="https://img.shields.io/github/stars/codingonion/moblas?style=social"/> : BLAS (Basic Linear Algebra Subprograms) library written in mojo programming language.
 
@@ -503,6 +503,8 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [2024-05-24，Mojo Community Meeting #1](https://www.youtube.com/watch?v=uIG9q9foIw0)
     - [2024-06-08，Mojo Community Meeting #2](https://www.youtube.com/watch?v=3FKSlhZNdL0)
     - [2024-06-18，Mojo Community Meeting #3](https://www.youtube.com/watch?v=onrRbJ6DeYg)
+    - [2024-07-23，Mojo Community Meeting #4](https://www.youtube.com/watch?v=_QVs626Vn2k)
+    - [2024-07-30，Mojo Community Meeting #5](https://www.youtube.com/watch?v=1T-MBC9k99M)
   - [Developer Voices](https://www.youtube.com/@DeveloperVoices)
     - [2024-02-10，Mojo Lang - Tomorrow's High Performance Python? (with Chris Lattner)](https://www.youtube.com/watch?v=JRcXUuQYR90)
   - [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen)
