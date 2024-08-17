@@ -239,6 +239,8 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
     - [Endia](https://github.com/endia-org/Endia) <img src="https://img.shields.io/github/stars/endia-org/Endia?style=social"/> : Scientific Computing in Mojo 🔥. Endia is a dynamic Array library for Scientific Computing, similar to PyTorch, Numpy and JAX. [endia.vercel.app](https://endia.vercel.app/)
 
+    - [Infermo](https://github.com/TilliFe/Infermo) <img src="https://img.shields.io/github/stars/TilliFe/Infermo?style=social"/> : Tensors and dynamic Neural Networks in Mojo.
+
     - [MojoNet](https://github.com/guna-sd/MojoNet) <img src="https://img.shields.io/github/stars/guna-sd/MojoNet?style=social"/> : MojoNet is a ML/DL framework written in mojo🔥
 
     - [StijnWoestenborghs/gradi-mojo](https://github.com/StijnWoestenborghs/gradi-mojo) <img src="https://img.shields.io/github/stars/StijnWoestenborghs/gradi-mojo?style=social"/> : Gradient Descent in Mojo 🔥
@@ -505,6 +507,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
     - [2024-06-18，Mojo Community Meeting #3](https://www.youtube.com/watch?v=onrRbJ6DeYg)
     - [2024-07-23，Mojo Community Meeting #4](https://www.youtube.com/watch?v=_QVs626Vn2k)
     - [2024-07-30，Mojo Community Meeting #5](https://www.youtube.com/watch?v=1T-MBC9k99M)
+    - [2024-08-15，MAX + Mojo Community Meetings #6](https://www.youtube.com/watch?v=6huytcgQgk8)
   - [Developer Voices](https://www.youtube.com/@DeveloperVoices)
     - [2024-02-10，Mojo Lang - Tomorrow's High Performance Python? (with Chris Lattner)](https://www.youtube.com/watch?v=JRcXUuQYR90)
   - [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen)
