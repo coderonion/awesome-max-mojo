@@ -1,14 +1,15 @@
-# Awesome-Mojo-and-MLIR
+# Awesome-MAX-Mojo-MLIR
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repository lists some awesome public Mojo🔥 programming language and Multi-Level IR Compiler Framework(MLIR) projects.
+This repository lists some awesome public MAX platform, Mojo programming language and Multi-Level IR Compiler Framework(MLIR) projects.
 
 ## Contents
-- [Awesome-Mojo-and-MLIR](#awesome-Mojo-and-mlir)
+- [Awesome-MAX-Mojo-MLIR](#awesome-MAX-Mojo-mlir)
   - [Summary](#summary)
-    - [Official Mojo and MLIR](#official-mojo-and-mlir)
+    - [Official Version](#official-version)
     - [Awesome List](#awesome-list)
     - [Learning Resources](#learning-resources)
+      - [MAX Learning](#max-learning)
       - [Mojo Learning](#mojo-learning)
       - [MLIR Learning](#mlir-learning)
   - [Model Compilation](#model-compilation)
@@ -48,7 +49,7 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
 ## Summary
 
-  - ### Official Mojo and MLIR
+  - ### Official Version
 
     - [Mojo🔥](https://github.com/modularml/mojo) <img src="https://img.shields.io/github/stars/modularml/mojo?style=social"/> : The Mojo Programming Language. Mojo is a new programming language that bridges the gap between research and production by combining Python syntax and ecosystem with systems programming and metaprogramming features. Mojo is still young, but it is designed to become a superset of Python over time. [docs.modular.com/mojo](https://docs.modular.com/mojo).
 
@@ -82,6 +83,10 @@ This repository lists some awesome public Mojo🔥 programming language and Mult
 
 
   - ### Learning Resources
+
+    - #### MAX Learning
+
+        - [MAX Docs](https://docs.modular.com/max/) : The Modular Accelerated Xecution (MAX) platform is a unified set of APIs and tools that help you build and deploy high-performance AI pipelines.
 
     - #### Mojo Learning
 
