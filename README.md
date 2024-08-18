@@ -69,7 +69,7 @@ This repository lists some awesome public MAX platform, Mojo programming languag
 
   - ### Awesome List
 
-    - [mojo-cc/awesome-mojo-and-mlir](https://github.com/mojo-cc/awesome-mojo-and-mlir) <img src="https://img.shields.io/github/stars/mojo-cc/awesome-mojo-and-mlir?style=social"/> : A collection of some awesome awesome public Mojo🔥 programming language and Multi-Level IR Compiler Framework(MLIR) projects.
+    - [mojo-cc/awesome-max-mojo-mlir](https://github.com/mojo-cc/awesome-max-mojo-mlir) <img src="https://img.shields.io/github/stars/mojo-cc/awesome-max-mojo-mlir?style=social"/> : A collection of some awesome public MAX platform, Mojo programming language and Multi-Level IR Compiler Framework(MLIR) projects.
 
     - [ego/awesome-mojo](https://github.com/ego/awesome-mojo) <img src="https://img.shields.io/github/stars/ego/awesome-mojo?style=social"/> : Awesome Mojo🔥 [awesome.mojo-lang.dev](https://awesome.mojo-lang.dev/)
 
