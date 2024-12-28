@@ -1,7 +1,7 @@
 # Awesome-MAX-Mojo-MLIR
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repository lists some awesome public MAX platform, Mojo programming language and Multi-Level IR Compiler Framework(MLIR) projects.
+This repository lists some awesome public [Mojo programming language](https://docs.modular.com/mojo), [MAX platform](https://docs.modular.com/max/) and [Multi-Level IR Compiler Framework(MLIR)](https://mlir.llvm.org/) projects.
 
 ## Contents
 - [Awesome-MAX-Mojo-MLIR](#awesome-MAX-Mojo-mlir)
@@ -9,8 +9,8 @@ This repository lists some awesome public MAX platform, Mojo programming languag
     - [Official Version](#official-version)
     - [Awesome List](#awesome-list)
     - [Learning Resources](#learning-resources)
-      - [MAX Learning](#max-learning)
       - [Mojo Learning](#mojo-learning)
+      - [MAX Learning](#max-learning)
       - [MLIR Learning](#mlir-learning)
   - [Model Compilation](#model-compilation)
   - [Performance Benchmark](#performance-benchmark)
@@ -69,7 +69,9 @@ This repository lists some awesome public MAX platform, Mojo programming languag
 
   - ### Awesome List
 
-    - [mojo-cc/awesome-max-mojo-mlir](https://github.com/mojo-cc/awesome-max-mojo-mlir) <img src="https://img.shields.io/github/stars/mojo-cc/awesome-max-mojo-mlir?style=social"/> : A collection of some awesome public MAX platform, Mojo programming language and Multi-Level IR Compiler Framework(MLIR) projects.
+   - [awesome-cuda-triton-hpc](https://github.com/coderonion/awesome-cuda-triton-hpc) <img src="https://img.shields.io/github/stars/coderonion/awesome-cuda-triton-hpc?style=social"/> : A collection of some awesome public [CUDA](https://developer.nvidia.com/cuda-zone), [cuBLAS](https://developer.nvidia.com/cublas), [cuDNN](https://developer.nvidia.com/cudnn), [CUTLASS](https://github.com/NVIDIA/cutlass), [TensorRT](https://developer.nvidia.com/tensorrt), [TensorRT-LLM](https://nvidia.github.io/TensorRT-LLM/), [Triton](https://triton-lang.org), [MLIR](https://mlir.llvm.org/) and High Performance Computing (HPC) projects.
+
+    - [awesome-mojo-max-mlir](https://github.com/coderonion/awesome-mojo-max-mlir) <img src="https://img.shields.io/github/stars/coderonion/awesome-mojo-max-mlir?style=social"/> : A collection of some awesome public [Mojo programming language](https://docs.modular.com/mojo), [MAX platform](https://docs.modular.com/max/) and [Multi-Level IR Compiler Framework(MLIR)](https://mlir.llvm.org/) projects.
 
     - [ego/awesome-mojo](https://github.com/ego/awesome-mojo) <img src="https://img.shields.io/github/stars/ego/awesome-mojo?style=social"/> : Awesome Mojo🔥 [awesome.mojo-lang.dev](https://awesome.mojo-lang.dev/)
 
@@ -83,10 +85,6 @@ This repository lists some awesome public MAX platform, Mojo programming languag
 
 
   - ### Learning Resources
-
-    - #### MAX Learning
-
-        - [MAX Docs](https://docs.modular.com/max/) : The Modular Accelerated Xecution (MAX) platform is a unified set of APIs and tools that help you build and deploy high-performance AI pipelines.
 
     - #### Mojo Learning
 
@@ -104,6 +102,9 @@ This repository lists some awesome public MAX platform, Mojo programming languag
 
         - [HaruTzuki/MojoLessons](https://github.com/HaruTzuki/MojoLessons) <img src="https://img.shields.io/github/stars/HaruTzuki/MojoLessons?style=social"/> : MojoLessons.
 
+    - #### MAX Learning
+
+        - [MAX Docs](https://docs.modular.com/max/) : The Modular Accelerated Xecution (MAX) platform is a unified set of APIs and tools that help you build and deploy high-performance AI pipelines.
 
 
     - #### MLIR Learning
@@ -175,7 +176,7 @@ This repository lists some awesome public MAX platform, Mojo programming languag
 
 ## FFI Bindings
 
-  - [spcl/pymlir](https://github.com/spcl/pymlir) <img src="https://img.shields.io/github/stars/spcl/pymlir?style=social"/> : Python interface for MLIR - the Multi-Level Intermediate Representation.
+  - [pyMLIR](https://github.com/spcl/pymlir) <img src="https://img.shields.io/github/stars/spcl/pymlir?style=social"/> : Python interface for MLIR - the Multi-Level Intermediate Representation. pyMLIR is a full Python interface to parse, process, and output [MLIR](https://mlir.llvm.org/) files according to the syntax described in the [MLIR documentation](https://github.com/llvm/llvm-project/tree/master/mlir/docs). pyMLIR supports the basic dialects and can be extended with other dialects.
 
   - [ihnorton/mojo-ffi](https://github.com/ihnorton/mojo-ffi) <img src="https://img.shields.io/github/stars/ihnorton/mojo-ffi?style=social"/> : Mojo FFI Notes.
 
@@ -188,10 +189,6 @@ This repository lists some awesome public MAX platform, Mojo programming languag
   - ['gpu' Dialect](https://mlir.llvm.org/docs/Dialects/GPU/) : This dialect provides middle-level abstractions for launching GPU kernels following a programming model similar to that of CUDA or OpenCL.
 
   - ['amdgpu' Dialect](https://mlir.llvm.org/docs/Dialects/AMDGPU/) : The AMDGPU dialect provides wrappers around AMD-specific functionality and LLVM intrinsics.
-
-  - [AyakaGEMM/Hands-on-MLIR](https://github.com/AyakaGEMM/Hands-on-MLIR) <img src="https://img.shields.io/github/stars/AyakaGEMM/Hands-on-MLIR?style=social"/> : Hands-on-MLIR.
-
-  - [yao-jiashu/KernelCodeGen](https://github.com/yao-jiashu/KernelCodeGen) <img src="https://img.shields.io/github/stars/yao-jiashu/KernelCodeGen?style=social"/> : GEMM/Conv2d CUDA/HIP kernel code generation using MLIR.
 
 
 
@@ -236,9 +233,13 @@ This repository lists some awesome public MAX platform, Mojo programming languag
 
     - [ONNX-MLIR](https://github.com/onnx/onnx-mlir) <img src="https://img.shields.io/github/stars/onnx/onnx-mlir?style=social"/> : Representation and Reference Lowering of ONNX Models in MLIR Compiler Infrastructure.
 
-    - [TPU-MLIR](https://github.com/sophgo/tpu-mlir) <img src="https://img.shields.io/github/stars/sophgo/tpu-mlir?style=social"/> : Machine learning compiler based on MLIR for Sophgo TPU.
+    - [TPU-MLIR](https://github.com/sophgo/tpu-mlir) <img src="https://img.shields.io/github/stars/sophgo/tpu-mlir?style=social"/> : Machine learning compiler based on MLIR for Sophgo TPU. TPU-MLIR is an open-source machine-learning compiler based on MLIR for TPU. This project provides a complete toolchain, which can convert pre-trained neural networks from different frameworks into binary files bmodel that can be efficiently operated on TPUs.
 
     - [IREE](https://github.com/iree-org/iree) <img src="https://img.shields.io/github/stars/iree-org/iree?style=social"/> : A retargetable MLIR-based machine learning compiler and runtime toolkit. [iree.dev/](http://iree.dev/)
+
+    - [ByteIR](https://github.com/bytedance/byteir) <img src="https://img.shields.io/github/stars/bytedance/byteir?style=social"/> : The ByteIR Project is a ByteDance model compilation solution. ByteIR includes compiler, runtime, and frontends, and provides an end-to-end model compilation solution. [byteir.ai](https://byteir.ai/)
+
+    - [Xilinx/mlir-aie](https://github.com/Xilinx/mlir-aie) <img src="https://img.shields.io/github/stars/Xilinx/mlir-aie?style=social"/> : An MLIR-based toolchain for AMD AI Engine-enabled devices. This repository contains an MLIR-based toolchain for AI Engine-enabled devices, such as [AMD Ryzen™ AI](https://www.amd.com/en/products/processors/consumer/ryzen-ai.html) and [Versal™](https://www.xilinx.com/products/technology/ai-engine.html).
 
     - [Basalt](https://github.com/basalt-org/basalt) <img src="https://img.shields.io/github/stars/basalt-org/basalt?style=social"/> : A Machine Learning framework from scratch in Pure Mojo 🔥. Basalt is a stand-alone machine learning framework that leverages the power of Mojo.
 
@@ -254,7 +255,7 @@ This repository lists some awesome public MAX platform, Mojo programming languag
 
     - [henrithomas/mojo-neural-net](https://github.com/henrithomas/mojo-neural-net) <img src="https://img.shields.io/github/stars/henrithomas/mojo-neural-net?style=social"/> : simple neural network implementation in mojo.
 
-    - [openxla/iree](https://github.com/openxla/iree) <img src="https://img.shields.io/github/stars/openxla/iree?style=social"/> : IREE: Intermediate Representation Execution Environment. A retargetable MLIR-based machine learning compiler and runtime toolkit. [iree.dev/](http://iree.dev/)
+    
 
 
 
@@ -518,9 +519,3 @@ This repository lists some awesome public MAX platform, Mojo programming languag
   - [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen)
     - [2024-02-10，Mojo Is FASTER Than Rust](https://www.youtube.com/watch?v=kmmqHV26Ukg)
     - [2024-02-16，[UPDATE] Mojo Is Faster Than Rust - Mojo Explains More](https://www.youtube.com/watch?v=MDblUyz0PtQ)
-
-
-## Jobs and Interview
-
-  - 微信公众号「HelloGCC」
-    - [2024-03-08，一大波前沿编译器岗位来袭，Dataflow, Mojo, MLIR, CIRCT, ClangIR, LLVM...](https://mp.weixin.qq.com/s/rntOFBKKFOdmt5arGzsvFA)
